@@ -10,6 +10,10 @@
     color: black;
 }
 
+.card-title  {
+    text-transform: uppercase;
+}
+
 .hero-desc {
     font-size: 7vmin;
     font-weight: 700;
