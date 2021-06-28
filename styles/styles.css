@@ -136,6 +136,15 @@
     .form {
         display: none;
     }
+    .services-grid {
+        display: grid;
+        place-items: center;
+    }
+
+    .company-img {
+        display: grid;
+        place-items: center;
+    }
 
     .text {
         text-align: center;
@@ -158,6 +167,15 @@
     }
     .col-2 {
         display: none;
+    }
+
+    .services-grid {
+        display: grid;
+        place-items: center;
+    }
+    .company-img {
+        display: grid;
+        place-items: center;
     }
 
     #illustration {
@@ -192,6 +210,15 @@
 
     #illustration {
         display: none;
+    }
+
+    .services-grid {
+        display: grid;
+        place-items: center;
+    }
+    .company-img {
+        display: grid;
+        place-items: center;
     }
 
     .form {
